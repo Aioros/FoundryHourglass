@@ -13,9 +13,9 @@
   "esmodules": ["scripts/main.js"],
   "socket": true,
   "styles": ["styles/hourglass.css", "styles/hourglass-gui.css", "styles/flipdown.css"],
-  "url": "https://github.com/Octarines/FoundryHourglass",
-  "readme": "https://raw.githubusercontent.com/Octarines/FoundryHourglass/main/README.md",
-  "bugs": "https://github.com/Octarines/FoundryHourglass/issues",
-  "manifest": "https://github.com/Octarines/FoundryHourglass/releases/latest/download/module.json",
+  "url": "https://github.com/JackTheHat/FoundryHourglass",
+  "readme": "https://raw.githubusercontent.com/JackTheHat/FoundryHourglass/main/README.md",
+  "bugs": "https://github.com/JackTheHat/FoundryHourglass/issues",
+  "manifest": "https://github.com/JackTheHat/FoundryHourglass/releases/latest/download/module.json",
   "download": "This is auto replaced"
 }
